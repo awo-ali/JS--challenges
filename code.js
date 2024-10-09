@@ -4,3 +4,4 @@ function minMax(arr) {
     
   }
   console.log( minMax([105, 2, 33, 4, 56]));
+  
